@@ -1,4 +1,4 @@
-module cli-gematria
+module github.com/andreimerlescu/cli-gematria
 
 go 1.23.4
 
